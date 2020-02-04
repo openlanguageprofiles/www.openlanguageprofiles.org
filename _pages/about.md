@@ -1,13 +1,13 @@
 ---
 permalink: /
 title: "Open Language Profiles (OLP)"
-excerpt: "About Open Language Profiles"
+excerpt: "A platform for sharing open linguistic resources for language education"
 author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 header:
-  image: olp.png
+  image: logo.png
 ---
 
 Open Language Profiles (OLP) is a platform for sharing open linguistic resources for language education, or "[Universal Dependencies](https://universaldependencies.org/) for Language Education."
