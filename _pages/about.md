@@ -27,7 +27,8 @@ The goal of Open Language Profiles (OLP) is to promote open, multilingual, multi
 
 # Resources
 
-Currently, [CEFR-j English Vocabulary and Grammar Profile datasets](https://github.com/openlanguageprofiles/olp-en-cefrj) are distributed by OLP. See the [Datasets](/datasets) page for more information.
+Currently, [CEFR-j English Vocabulary and Grammar Profile datasets](https://github.com/openlanguageprofiles/olp-en-cefrj) and [Mandarin Chinese dataset from Zero to Hero
+](https://github.com/openlanguageprofiles/olp-zh-zerotohero) are distributed by OLP. See the [Datasets](/datasets) page for more information.
 
 # Contact us
 
@@ -37,6 +38,7 @@ If you are interested in providing data, partnering with, and/or sponsoring us, 
 
 # Partners
 
-<a href="http://www.cefr-j.org/"><img src="/images/logo-cefrj.png" alt="Logo CEFR-j" width="30%"/></a>
-<a href="http://www.octanove.com/"><img src="/images/logo-octanove.png" alt="Logo Octanove Labs" width="30%"/></a>
-<a href="https://www.riken.jp/en/research/labs/aip/"><img src="/images/logo-aip.png" alt="Logo RIKEN AIP" width="33%"/></a>
+<a href="http://www.cefr-j.org/"><img src="/images/logo-cefrj.png" alt="Logo CEFR-j" width="24%"/></a>
+<a href="http://www.octanove.com/"><img src="/images/logo-octanove.png" alt="Logo Octanove Labs" width="24%"/></a>
+<a href="https://www.riken.jp/en/research/labs/aip/"><img src="/images/logo-aip.png" alt="Logo RIKEN AIP" width="24%"/></a>
+<a href="https://www.zerotohero.ca/"><img src="/images/logo-zerotohero.png" alt="Logo Chinese Zero to Hero" width="24%"/></a>
